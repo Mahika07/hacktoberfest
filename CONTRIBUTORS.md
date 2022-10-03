@@ -1,3 +1,7 @@
+#### Name: Mahika sharma
+ - Place: Indore,India
+ - Bio: B.E 3rd student ,at IET DAVV 
+ - GitHub: https://github.com/Mahika07
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
